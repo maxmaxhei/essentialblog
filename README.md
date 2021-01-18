@@ -22,7 +22,7 @@ What about Essential Blog? We don't need any add-ons or templates! Everything th
 1. Download the zip file and extract everything.
 2. Create a MySQL database for Essential Blog in your web server. The database should have all privileges for accessing and modifying it. 
 3. Upload the extracted files into your desired location in web server. Upload it to the directory you prefer.
-4. Go to http://{Your website's domain or localhost}/{The directory that is installed with Essential Blog, ignore this if you install it to the root directory}/installer.php and follow the installation instruction.
+4. Go to http://{Your website's domain or localhost}{/The directory that is installed with Essential Blog, ignore this if you install it to the root directory}/installer.php and follow the installation instruction.
 
 If you follow the steps carefully and correctly, Essential Blog will be successfully installed into your web server. Enjoy!
 

@@ -13,4 +13,6 @@ Most good add-ons and beautiful templates will charge you a huge sum of money, t
 
 Apart from that, these add-ons and outside codes may get your website infected with virus. If you accidently download some obsecures plugins, there is a high chance your website will get infected and it is hard to recover from this! This also applies to big-time templates and add-ons, too. It is true that they do not have malware themselves. However, the codes may contain some vulnerability that creates a risk of your site's security! 
 
-Also, they may also slow down your website. Even you are downloading a paid
+Also, they may also slow down your website. Some add-ons developers don't bother to optimize their code (Even I am a little bit lazy about this, LOL!) and some even thinks big codes will impress their clients and can generate more leads. Imagine how long it takes to load this big piece of code! You want to rank higher in SEO? Better page speed? Add-ons and templates are not a good option.
+
+

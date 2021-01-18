@@ -1,6 +1,6 @@
 # Essential Blog
 
-Essential Blog is a free content management system (CMS) which contains everything essential to a modern blog. We (aim to) have every functions and codes that are useful and needed by a blog. No themes, templates, plugins, addons are needed! It is developed by HTML, CSS, JS, PHP, MYSQL.
+Essential Blog is a free content management system (CMS) which contains everything essential to a modern blog. We (aim to) have every functions and codes that are useful and needed by a blog. No themes, templates, plugins, addons are needed! It is developed by HTML, CSS, JS, PHP, MySQL.
 
 ## Why choose Essential Blog?
 

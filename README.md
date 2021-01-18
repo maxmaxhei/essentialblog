@@ -39,6 +39,14 @@ If you follow the steps carefully and correctly, Essential Blog will be successf
 
 If you have any problems regarding Essential Blog, just contact maxmaxhei@gmail.com, my email address!
 
+## Bug Report
+
+You are welcome to report any bugs by this repository's Github issue page or contact me directly by maxmaxhei@gmail.com.
+
+## Suggestion
+
+You are welcome to suggest any new features by sending an email to maxmaxhei@gmail.com.
+
 
 
 

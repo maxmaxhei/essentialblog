@@ -15,7 +15,11 @@ Apart from that, these add-ons and outside codes may get your website infected w
 
 Also, they may also slow down your website. Some add-ons developers don't bother to optimize their code (Even I am a little bit lazy about this, LOL!) and some even thinks big codes will impress their clients and can generate more leads. Imagine how long it takes to load this big piece of code! You want to rank higher in SEO? Better page speed? Add-ons and templates are not a good option.
 
-What about Essential Blog? We don't need any add-ons or templates! Everything that are needed by a modern blog is included here! Oh, also there are something I forgot to tell you! Essential Blog IS NOT developed with the help of any extensions like Bootstrap and jQuery. All outside extensions, add-ons, templates are totally banned here!
+What about Essential Blog? We don't need any add-ons or templates! Everything that are needed by a modern blog is included here! Oh, also there are something I forgot to tell you! Essential Blog IS NOT developed with the help of any extensions like Bootstrap, jQuery or Laravel. All outside extensions, add-ons, templates are banned here! 
+
+
+
+
 
 
 

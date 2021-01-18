@@ -26,6 +26,8 @@ What about Essential Blog? We don't need any add-ons or templates! Everything th
 
 If you follow the steps carefully and correctly, Essential Blog will be successfully installed into your web server. Enjoy!
 
+Please make sure your web server, database fulfill the requirement below.
+
 ## Requirement
 
 - PHP 7.0.0 or higher, recommend to have PHP 7.3.0+ and will be even more better if you have PHP 8

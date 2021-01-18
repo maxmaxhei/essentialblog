@@ -17,6 +17,10 @@ Also, they may also slow down your website. Some add-ons developers don't bother
 
 What about Essential Blog? We don't need any add-ons or templates! Everything that are needed by a modern blog is included here! Oh, also there are something I forgot to tell you! Essential Blog IS NOT developed with the help of any extensions like Bootstrap, jQuery or Laravel. All outside extensions, add-ons, templates are banned here! 
 
+## Installation 
+
+1. 
+
 
 
 

@@ -49,6 +49,9 @@ You are welcome to report any bugs by this repository's Github issue page or con
 
 You are welcome to suggest any new features by sending an email to maxmaxhei@gmail.com.
 
+## License
+
+No license yet. You are free to share, distribute, modify, use the codes in both personal use and commerical use.
 
 
 

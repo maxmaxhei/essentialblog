@@ -33,7 +33,7 @@ Please make sure your web server, database fulfill the requirement below.
 - PHP 7.0.0 or higher, recommend to have PHP 7.3.0+ and will be even more better if you have PHP 8
 - MySQL 5.6 or higher, recommend to have MySQL 8.0+
 - .htaccess enabled
-- mod_rewrite() enabled
+- mod_rewrite enabled
 - file_upload enabled
 
 
